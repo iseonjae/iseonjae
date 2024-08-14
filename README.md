@@ -3,6 +3,8 @@ Hi there! I'm Seonjae Lee 🙌
 I'm currently learning data analysis & data engineering to become a data scientist.
 
 # Projects ✨
+vgg19를 활용한 의류 HS Code 자동 분류 시스템(2024 관세청 공공데이터 활용/분석 경진대회)<br>
+나만의 캐릭터를 통한 미성년자의 투자문화 확산 금융교육 서비스(제 8회 미래에셋증권 X 네이버클라우드 AI/Data 페스티벌)
 
 # Awards 🏆
 제 18회 이과대학 재학생 연구프로젝트 경진대회 최우수상<br>
