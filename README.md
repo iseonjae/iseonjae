@@ -3,10 +3,10 @@ Hi there! I'm Seonjae Lee 🙌
 I'm currently learning data analysis & data engineering to become a data scientist.
 
 # Projects ✨
-vgg19를 활용한 의류 HS Code 자동 분류 시스템(2024 관세청 공공데이터 활용•분석 경진대회)<br>
-나만의 캐릭터를 통한 미성년자의 투자문화 확산 금융교육 서비스(제 8회 미래에셋증권 X 네이버클라우드 AI/Data 페스티벌)<br>
+[vgg19를 활용한 의류 HS Code 자동 분류 시스템(2024 관세청 공공데이터 활용•분석 경진대회)](https://github.com/iseonjae/Customs-Data-Competition)<br>
+[나만의 캐릭터를 통한 미성년자의 투자문화 확산 금융교육 서비스(제 8회 미래에셋증권 X 네이버클라우드 AI/Data 페스티벌)](https://github.com/iseonjae/Miraeasset_RookieVicky)<br>
 서울 광진구 범죄안전 예측 기반 길안내 서비스(2024 광진구 빅데이터분석 공모전) <br>
-중소기업 채무불이행 예측(2024-1 비어플 프로젝트)<br>
+[중소기업 채무불이행 예측(2024-1 비어플 프로젝트)](https://github.com/iseonjae/BAF-24-1-finance_2)<br>
 서울 중구 공공도서관의 도서별 데이터를 활용한 대출 가능성 향상(2023 창의문제해결 프로젝트 경진대회)<br>
 서울 공공자전거 수요량 예측기반 대여소 입지선정(제 18회 이과대학 재학생 연구프로젝트 경진대회)<br>
 증거법과 통계적 유의성에 대한 법경제학적 분석(제 1회 경제학과 학술제)
