@@ -15,5 +15,10 @@ I'm currently learning data analysis & data engineering to become a data scienti
 제 18회 이과대학 재학생 연구프로젝트 경진대회 최우수상<br>
 제 1회 경제학과 학술제 장려상
 
+# Activities 🌱
+동국대학교 통계학과 빅데이터 학회 비어플 학회원<br>
+동국대학교 IT 교육봉사 동아리 HI-SW 기획부원<br>
+동국대학교 IT 동아리 팜시스템 빅데이터 트랙 열매과정
+
 # Tech Stacks 💻
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
