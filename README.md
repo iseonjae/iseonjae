@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Hi%20there%20🍀%20%20&height=150&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Welcome%20to%20Seonjae's%20Github%20🍀%20%20&height=150&fontSize=50&fontColor=ffffff)
 Hi there! I'm Seonjae Lee 🙌
 I'm currently learning data analysis & data engineering to become a data scientist.
 
