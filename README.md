@@ -12,7 +12,8 @@ I'm currently learning data analysis & data engineering to become a data scienti
 증거법과 통계적 유의성에 대한 법경제학적 분석(제 1회 경제학과 학술제)
 
 # Awards 🏆
-제 18회 이과대학 재학생 연구프로젝트 경진대회 최우수상<br>
+2024 관세청 공공데이터 활용•분석 경진대회 최우수상(1위) <br>
+제 18회 이과대학 재학생 연구프로젝트 경진대회 최우수상(1위) <br>
 제 1회 경제학과 학술제 장려상
 
 # Activities 🌱
