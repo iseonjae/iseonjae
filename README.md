@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Welcome%20to%20Seonjae's%20Github%20%20&height=150&fontSize=50&fontColor=ffffff)
 Hi there! I'm Seonjae Lee 🙌
-I'm currently learning data analysis & data engineering to become a data scientist.
+I'm currently learning data analysis & data engineering.
 
 # Projects
 [vgg19를 활용한 의류 HS Code 자동 분류 시스템(2024 관세청 공공데이터 활용•분석 경진대회)](https://github.com/iseonjae/Customs-Data-Competition)<br>
