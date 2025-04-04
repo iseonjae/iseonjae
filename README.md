@@ -17,7 +17,8 @@ I'm currently learning data analysis & data engineering to become a data scienti
 제 1회 경제학과 학술제 장려상
 
 # Activities
-동국대학교 통계학과 빅데이터 학회 비어플 회장(24.09-)<br>
+동국대학교 IT 교육봉사 동아리 HI-SW 홍보부장(25.02~25.08)<br>
+동국대학교 통계학과 빅데이터 학회 비어플 회장(24.09-25.08)<br>
 디지털하나로 데이터분석/서비스기획 5기 최우수 수료(24.08-25.02)<br>
 동국대학교 IT 교육봉사 동아리 HI-SW 기획부원(24.03-24.11)
 
