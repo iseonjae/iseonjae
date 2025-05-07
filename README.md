@@ -2,7 +2,7 @@
 Hi there! I'm Seonjae Lee 🙌
 I'm currently learning data analysis & data engineering.
 
-# Projects
+### Projects
 반려동물 종합케어서비스 펫체크(PetCheck)<br>
 상품별 최적 방송 시간대 도출 및 연령대별 선호도 분석을 통한 B홈쇼핑 멀티채널 마케팅 제안<br>
 냉장고 식재료 관리 서비스 냉장로그<br>
@@ -19,16 +19,17 @@ IT 아웃소싱 플랫폼 중개 역할 강화와 전문가/소비자 서비스 
 서울 공공자전거 수요량 예측기반 대여소 입지선정(제 18회 이과대학 재학생 연구프로젝트 경진대회)<br>
 증거법과 통계적 유의성에 대한 법경제학적 분석(제 1회 경제학과 학술제)
 
-# Awards
-2024 관세청 공공데이터 활용•분석 경진대회 최우수상(1위) <br>
-제 18회 이과대학 재학생 연구프로젝트 경진대회 최우수상(1위) <br>
-제 1회 경제학과 학술제 장려상
+### Awards
+2024 관세청 공공데이터 활용•분석 경진대회 최우수상(24.09) <br>
+제 18회 이과대학 재학생 연구프로젝트 경진대회 최우수상(23.11) <br>
+제 1회 경제학과 학술제 장려상(22.11)
 
-# Activities
-동국대학교 IT 교육봉사 동아리 HI-SW 홍보부장(25.02~25.08)<br>
+### Activities
+동국대학교 IT 교육봉사 동아리 HI-SW 홍보부장(25.02-25.08)<br>
 동국대학교 통계학과 빅데이터 학회 비어플 회장(24.09-25.08)<br>
 디지털하나로 데이터분석/서비스기획 5기 최우수 수료(24.08-25.02)<br>
-동국대학교 IT 교육봉사 동아리 HI-SW 기획부원(24.03-24.11)
+동국대학교 IT 교육봉사 동아리 HI-SW 기획부원(24.03-24.11)<br>
+동국대학교 통계학과 빅데이터 학회 비어플 학회원(24.01-24.08)
 
-# Tech Stacks
+### Tech Stacks
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
