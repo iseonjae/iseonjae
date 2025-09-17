@@ -3,7 +3,7 @@ Hi there! I'm Seonjae Lee 🙌
 I'm currently learning data analysis & data engineering.
 
 ### Projects
-[출생아 사망에 영향을 미치는 생물학적/부모의 사회경제적 요인 분석](https://github.com/iseonjae/Nonparametric-Statistics-Project)<br>
+[출생아 사망에 영향을 미치는 생물학적/부모의 사회경제적 요인 분석(비모수통계학 프로젝트)](https://github.com/iseonjae/Nonparametric-Statistics-Project)<br>
 반려동물 종합케어서비스 펫체크(PetCheck)<br>
 상품별 최적 방송 시간대 도출 및 연령대별 선호도 분석을 통한 홈쇼핑 멀티채널 마케팅 제안<br>
 냉장고 식재료 관리 서비스 냉장로그<br>
